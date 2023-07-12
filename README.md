@@ -1,6 +1,6 @@
 Hi, I’m Sam.
 
-I'm particularly interested in renewable energy generation and am currently studying Electrical and Electronic Engineering. I'm in my third year of my degree and am looking to use Github to store personal project data and progress.
+I'm particularly interested in renewable energy generation and am currently studying Electrical and Electronic Engineering. I'm in my final year of my degree and am looking to use Github to store personal project data and progress.
 
 You can reach me at samuel.schimanski@outlook.com
 
